@@ -1,11 +1,15 @@
+<!--
 https://github-readme-streak-stats.herokuapp.com/?user=DanielAniya
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielAniya)](https://github.com/anuraghazra/github-readme-stats)
 
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielAniya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAniya&layout=compact&theme=dracula&langs_count=16" />   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAniya&layout=compact&theme=dracula&langs_count=16" />  
 </div>
+-->
+
 <div style="display: inline_block"> <br>
   <img align="center" alt="dan-docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="center" alt="dan-composer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
