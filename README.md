@@ -1,3 +1,5 @@
+https://github-readme-streak-stats.herokuapp.com/?user=DanielAniya
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielAniya)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
